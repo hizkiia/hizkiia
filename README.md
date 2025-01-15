@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I love programming and i'm passionate about web de
 
 ## 🛠 Skills
 - **Programming Languages**: Python, JavaScript, PHP, Java
-- **Frameworks**: Laravel, Codeigniter 4, Express JS
+- **Frameworks**: Laravel, Codeigniter 4, Express JS, Flask
 - **Tools**: Git, Docker, Jupyter Notebook, App Engine
 
 ## 🌐 Let's Connect
