@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Hizkia Pratama 👋
+Welcome to my GitHub profile! I love programming and i'm passionate about web development. 
 
-<!--
-**hizkiia/hizkiia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Projects
+- **[StayAwake](https://github.com/hizkiia/backend-stayAwake)**: An Application for detect signs of driver fatigue, ensuring a safer journey by preventing accidents caused by drowsiness.
+- **[Website Sudimoro](https://sudimoro.my.id)**: A Website about Dusun Sudimoro using the CodeIgniter 4 framework and MySQL database.
+- **[E-Kost](https://github.com/hizkiia/ekost)**: A Website that contain boarding house information and online reservations.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Programming Languages**: Python, JavaScript, PHP, Java
+- **Frameworks**: Laravel, Codeigniter 4, Express JS
+- **Tools**: Git, Docker, Jupyter Notebook, App Engine
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Let's Connect
+- **Email**: kakahizkia@gmail.com
+- **LinkedIn**: [Hizkia Pratama](https://www.linkedin.com/in/hizkia-pratama-111862221/)
